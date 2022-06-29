@@ -17,7 +17,7 @@ remaining unsold.
 ## Functional Requirements of the System:
 
 ```bash
-● There should be two panels dedicated to Admin and Team Manager.
+● There will be two panels dedicated to Admin and Team Manager.
 ● Each team manager should login with the given credentials before
 working on the system.
 ● Admin will have the options to manage profiles of different types of
@@ -28,7 +28,7 @@ the task.
 
 ## Features of the project
 
-```python
+```bash
 ● Admin Login: Admin can login into the system and display
 players one by one to start the auction.
 
